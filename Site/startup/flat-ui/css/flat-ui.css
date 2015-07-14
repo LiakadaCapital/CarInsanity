@@ -606,7 +606,7 @@ fieldset[disabled] .btn-default.active {
 }
 .btn-primary {
   color: #ffffff;
-  background-color: #1abc9c;
+  background-color: #0095e0;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -614,13 +614,13 @@ fieldset[disabled] .btn-default.active {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
   color: #ffffff;
-  background-color: #48c9b0;
-  border-color: #48c9b0;
+  background-color: #0095e0;
+  border-color: #0095e0;
 }
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-  background: #16a085;
+  background: #0095e0;
   border-color: #16a085;
 }
 .btn-primary.disabled,

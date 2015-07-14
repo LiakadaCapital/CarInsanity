@@ -19,6 +19,7 @@
         <link rel="stylesheet" href="static/css/style.css">
         
         <title></title>
+
     </head>
 
     <body>
@@ -33,9 +34,8 @@
                 </div>
                 <div class="collapse navbar-collapse pull-right">
                     <ul class="nav pull-left">
-                        <li><a href="#">HOME</a></li>
+                        <li><a href="#">SERVICE</a></li>
                         <li><a href="#">ABOUT</a></li>
-                        <li><a href="#">BLOG</a></li>
                         <li><a href="#">CONTACT</a></li>
                     </ul>
                 </div>
@@ -44,21 +44,46 @@
     </div>
     <div class="header-background"></div>
 </header>
-<section class="header-3-sub" style="margin-top:100px;">
-    
-    
-    
-    <div id="myCarousel" class="carousel slide">
-  <ol class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#myCarousel" data-slide-to="1"></li>
-    <li data-target="#myCarousel" data-slide-to="2"></li>
-  </ol>
+
+<div id="myCarousel" class="carousel slide">
+  
   <!-- Carousel items -->
   <div class="carousel-inner">
     <div class="active item">
-	    <div class="background">&nbsp;</div>
-	    <div class="container">
+      <section class="header-3-sub" style="margin-top:100px;">
+    <div class="background">&nbsp;</div>
+    
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+               <h3>&nbsp;</h3>
+                <p>&nbsp;</p>
+            </div>
+        </div>
+    </div>
+</section>
+    </div>
+    <div class="item">
+      <section class="header-3-sub bg-black" style="margin-top:100px;">
+    <div class="background-2">&nbsp;</div>
+    
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h4 style="color:white;font-size:50px;">
+					        			<img src="img/title-image1.png">
+					        		<i>SPECIAL PROMO: S CLASS EXCLUSIVE</i></h4>
+					        		<h5 style="color:white;font-size:30px;margin-left:20px; float:right;"><i>GET A CAR WASH AND DETAILING FOR ONLY $120</i></h5>
+            </div>
+        </div>
+    </div>
+</section>
+    </div>
+    <div class="item">
+      <section class="header-3-sub" style="margin-top:100px;">
+    <div class="background-3">&nbsp;</div>
+    
+    <div class="container">
         <div class="row">
             <div class="col-sm-6">
                 <h3>Twenty five awesome samples</h3>
@@ -66,50 +91,76 @@
             </div>
         </div>
     </div>
+</section>
     </div>
-    <div class="item">
-      
-      
-    </div>
-    <div class="item">
-      
-      
-    </div>
+    <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
   </div>
   <!-- Carousel nav -->
   <a class="carousel-control fui-arrow-left left" href="#myCarousel" data-slide="prev"></a>
   <a class="carousel-control fui-arrow-right right" href="#myCarousel" data-slide="next"></a>
 </div>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-</section>
 
 
+<br>
 
-<section class="blog-5">
-   
+<div class="container">
+<div class="row">
+<div class="col-sm-12 text-center">
+<img src="img/title-image1.png"><br>
+ <h2 class="heading">OUR SERVICES</h2>
+</div> 
+</div>
+</div>
+<br><br>
+
+<!--
+<section class="header-11-sub bg-black">
+    <div class="background">&nbsp;</div>
     <div class="container">
-        
-        <div class="boxes">
-            <div class="box-1"></div>
-            <div class="box-2"></div>
-            <div class="box-3"></div>
-            <div class="box-4"></div>
+        <div class="row">
+            <div class="col-sm-12">       
+            </div>
         </div>
-        
     </div>
+</section>-->
+
+<section>
+	<div class="container-fluid" id="features">
+		<div class="row">
+			<div class="col-sm-4" id="one">
+				<div class="img-background" style="background-image: url('img/DSC_0846.jpg');">
+					<h5>WRAPPING</h5>
+				</div>
+			</div>
+			<div class="col-sm-4" id="two">
+				<div class="img-background" style="background-image: url('img/image2.jpg');">
+					<h5>DETAILING</h5>
+				</div>
+			</div>
+			<div class="col-sm-4" id="three">
+				<div class="img-background" style="background-image: url('img/DSC_0917.jpg');">
+					<h5>CAR WASHING</h5>
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
 
+<br>
+<div class="container">
+<div class="row">
+<div class="col-sm-12 text-center">
+<img src="img/title-image1.png"><br>
+ <h2 class="heading">DON'T TAKE IT FROM US</h2>
+</div> 
+</div>
+</div>
+
+<br><br><br>
 <section class="content-19">
     <div class="container">
         <div class="row">
@@ -148,13 +199,69 @@
         </div>
     </div>
 </section>
-
+<br><br><br><br>
 <section class="contacts-5">
-    <div class="map">
-        <!--map-->
-        <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
-                src="https://maps.google.com/?ie=UTF8&amp;t=m&amp;ll=40.714353,-74.005973&amp;spn=0.04554,0.072956&amp;z=12&amp;output=embed"></iframe>
-    </div>
+	<style type="text/css">
+            /* Set a size for our map container, the Google Map will take up 100% of this container */
+            #map {
+                width: 100%;
+                height: 300px;
+            }
+        </style>
+        
+        <!-- 
+            You need to include this script tag on any page that has a Google Map.
+
+            The following script tag will work when opening this example locally on your computer.
+            But if you use this on a localhost server or a live website you will need to include an API key. 
+            Sign up for one here (it's free for small usage): 
+                https://developers.google.com/maps/documentation/javascript/tutorial#api_key
+
+            After you sign up, use the following script tag with YOUR_GOOGLE_API_KEY replaced with your actual key.
+                <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=YOUR_GOOGLE_API_KEY&sensor=false"></script>
+        -->
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+        
+        <script type="text/javascript">
+            // When the window has finished loading create our google map below
+            google.maps.event.addDomListener(window, 'load', init);
+        
+            function init() {
+                // Basic options for a simple Google Map
+                // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
+                var mapOptions = {
+                    // How zoomed in you want the map to start at (always required)
+                    zoom: 14,
+
+                    // The latitude and longitude to center the map (always required)
+                    center: new google.maps.LatLng(43.873628, -79.281592), // New York
+
+                    // How you would like to style the map. 
+                    // This is where you would paste any style found on Snazzy Maps.
+                    styles: [{"featureType":"administrative","elementType":"labels.text.fill","stylers":[{"color":"#444444"}]},{"featureType":"landscape","elementType":"all","stylers":[{"color":"#f2f2f2"}]},{"featureType":"poi","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"road","elementType":"all","stylers":[{"saturation":-100},{"lightness":45}]},{"featureType":"road.highway","elementType":"all","stylers":[{"visibility":"simplified"}]},{"featureType":"road.arterial","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"transit","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"water","elementType":"all","stylers":[{"color":"#172330"},{"visibility":"on"}]}]
+                };
+
+                // Get the HTML DOM element that will contain your map 
+                // We are using a div with id="map" seen below in the <body>
+                var mapElement = document.getElementById('map');
+
+                // Create the Google Map using our element and options defined above
+                var map = new google.maps.Map(mapElement, mapOptions);
+
+                // Let's also add a marker while we're at it
+                var marker = new google.maps.Marker({
+                    position: new google.maps.LatLng(43.873628, -79.281592),
+                    map: map,
+                    title: 'Snazzy!'
+                });
+            }
+        </script>
+        
+        
+        <!-- The element that will contain our Google Map. This is used in both the Javascript and CSS above. -->
+        <div id="map"></div>
+
+
 </section>
 
 <footer class="footer-14">
@@ -179,10 +286,6 @@
                 <div class="fui-facebook"></div>
                 <div class="fui-facebook"></div>
             </a>
-            <a href="#">
-                <div class="fui-vimeo"></div>
-                <div class="fui-vimeo"></div>
-            </a>
         </div>
     </div>
 </footer>            <!-- Placed at the end of the document so the pages load faster -->
@@ -200,6 +303,7 @@
             <script src="startup/common-files/js/jquery.backgroundvideo.min.js"></script>
             <script src="startup/common-files/js/froogaloop.min.js"></script>
             <script src="startup/common-files/js/startup-kit.js"></script>
+
         </div>
     </body>
 </html>
