@@ -17,7 +17,7 @@ textarea {
   font-size: 14px;
 }
 a {
-  color: #16a085;
+  color: #0095e0;
   text-decoration: none;
   -webkit-transition: color 0.25s, background 0.25s;
   -moz-transition: color 0.25s, background 0.25s;
@@ -25,7 +25,7 @@ a {
   transition: color 0.25s, background 0.25s;
 }
 a:hover {
-  color: #1abc9c;
+  color: #0095e0;
   text-decoration: none;
 }
 h1,
@@ -526,9 +526,6 @@ h1 {
 h3 {
   font-weight: normal;
 }
-img {
-  -webkit-backface-visibility: hidden;
-}
 textarea,
 input[type="text"],
 input[type="password"],
@@ -692,6 +689,24 @@ section * {
   -o-background-size: cover;
   background-size: cover;
   background-image: url("../../img/DSC_0574.jpg");
+  opacity: 50;
+  filter: alpha(opacity=5000);
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+.background-7 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+  background: 50% 50% no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-image: url("../../img/DSC_0635.jpg");
   opacity: 50;
   filter: alpha(opacity=5000);
   opacity: 0.5;
@@ -1436,15 +1451,12 @@ position: fixed;
  * Footer 14 stylesheet  
  * */
 .footer-14 {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   background: #172330;
-  line-height: 25px;
+  line-height: 1.50;
 }
 .footer-14 .brand {
-  position: absolute;
-  top: 0;
-  left: 15px;
 }
 .footer-14 a {
   color: #95a5a6;
@@ -1484,10 +1496,17 @@ position: fixed;
   margin-left: 0;
 }
 .footer-14 .social-btns {
-  position: absolute;
-  top: 0;
-  right: 15px;
-  white-space: nowrap;
+	text-align: right;
+	margin-top: 2vh;
+ }
+ @media (max-width: 480px) {
+  .footer-14 .social-btns {
+    margin-left: 20px;
+    text-align: left;
+  }
+  .footer-14 .brand {
+  	display: none;
+  }
 }
 .footer-14 .social-btns > * {
   display: inline-block;
@@ -1523,7 +1542,7 @@ position: fixed;
 }
 @media (max-width: 480px) {
   .footer-14 .brand {
-    display: none;
+    
   }
   .footer-14 nav {
     text-align: left;
@@ -1538,7 +1557,7 @@ position: fixed;
     margin-top: 0;
   }
   .footer-14 .social-btns {
-    margin: 0 0 30px;
+    margin: 0 0 0px;
     position: relative;
     display: block;
     float: none;
@@ -1864,7 +1883,7 @@ position: fixed;
 }
 @media (max-width: 480px) {
   .content-19 {
-    padding-top: 80px;
+    padding-top: 10px;
     padding-bottom: 80px;
   }
   .content-19 .col-sm-7 .quote .quote-author {
@@ -2112,7 +2131,7 @@ filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org
   z-index: 3;
 }
 .content-18 .carousel .controls > .carousel-control {
-  z-index: 5;
+  z-index: 50000;
   position: absolute;
   top: 20px;
   display: block;
