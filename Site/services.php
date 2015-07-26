@@ -1,47 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="apple-mobile-web-app-capable" content="yes" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-        <link rel="shortcut icon" href="startup/flat-ui/images/favicon.ico">
-        
-        <link rel="stylesheet" href="startup/flat-ui/bootstrap/css/bootstrap.css">
-        <link rel="stylesheet" href="startup/flat-ui/css/flat-ui.css">
-        <!-- Using only with Flat-UI (free)-->
-        <link rel="stylesheet" href="startup/common-files/css/icon-font.css">
-        <!-- end -->
-        <link rel="stylesheet" href="startup/common-files/css/animations.css">
-        <link rel="stylesheet" href="static/css/style.css">
-        
-        <title></title>
-    </head>
+<?php include'header.php';?>
 
-    <body>
-        <div class="page-wrapper">
-        <header class="header-3">
-    <div class="container">
-        <div class="row">
-            <nav class="navbar col-sm-12" role="navigation">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle"></button>
-                    <a class="brand" href="#"><img src="img/logo.png" width="280" height="auto" alt=""></a>
-                </div>
-                <div class="collapse navbar-collapse pull-right">
-                    <ul class="nav pull-left">
-                        <li><a href="#">SERVICE</a></li>
-                        <li><a href="#">ABOUT</a></li>
-                        <li><a href="#">CONTACT</a></li>
-                       
-                    </ul>
-                </div>
-            </nav>
-        </div>
-    </div>
     <div class="header-background"></div>
 </header>
 
@@ -246,49 +204,4 @@
 
 <br><br><br><br>
 
-
-
-
-<footer class="footer-14">
-    <div class="container">
-        <a class="brand" href="#">
-            <img src="./img/logo.png" width="220" height="46" alt="">
-        </a>
-        <nav>
-            <ul>
-                <li><a href="./index.html" style="color:#172330; font-size:18px; font-weight:lighter;">HOME</a></li>
-                <li><a href="./services.html" style="color:#172330; font-size:18px; font-weight:lighter;">SERVICES</a></li>
-                <li><a href="./about.html" style="color:#172330; font-size:18px; font-weight:lighter;">ABOUT</a></li>
-                <li><a href="./contact.html" style="color:#172330; font-size:18px; font-weight:lighter;">CONTACT</a></li>
-            </ul>
-        </nav>
-        <div class="social-btns">
-            <a href="#">
-                <div class="fui-twitter"></div>
-                <div class="fui-twitter"></div>
-            </a>
-            <a href="#">
-                <div class="fui-facebook"></div>
-                <div class="fui-facebook"></div>
-            </a>
-        </div>
-    </div>
-</footer> 
-           <!-- Placed at the end of the document so the pages load faster -->
-            <script src="startup/common-files/js/jquery-1.10.2.min.js"></script>
-            <script src="startup/common-files/js/jquery.bxslider.min.js"></script>
-            <script src="startup/common-files/js/jquery.scrollTo-1.4.3.1-min.js"></script>
-            <script src="startup/common-files/js/jquery.sharrre.min.js"></script>
-            <script src="startup/flat-ui/js/bootstrap.min.js"></script>
-            <script src="startup/common-files/js/masonry.pkgd.min.js"></script>
-            <script src="startup/common-files/js/modernizr.custom.js"></script>
-            <script src="startup/common-files/js/page-transitions.js"></script>
-            <script src="startup/common-files/js/easing.min.js"></script>
-            <script src="startup/common-files/js/jquery.svg.js"></script>
-            <script src="startup/common-files/js/jquery.svganim.js"></script>
-            <script src="startup/common-files/js/jquery.backgroundvideo.min.js"></script>
-            <script src="startup/common-files/js/froogaloop.min.js"></script>
-            <script src="startup/common-files/js/startup-kit.js"></script>
-        </div>
-    </body>
-</html>
+<?php include'footer.php';?>

@@ -4433,7 +4433,7 @@ a.thumbnail.active {
 }
 .alert {
   padding: 15px;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
   border: 1px solid transparent;
   border-radius: 4px;
 }
@@ -4473,8 +4473,8 @@ a.thumbnail.active {
 }
 .alert-info {
   color: #31708f;
-  background-color: #d9edf7;
-  border-color: #bce8f1;
+  background-color: #0095e0;
+  border-color: #0095e0;
 }
 .alert-info hr {
   border-top-color: #a6e1ec;

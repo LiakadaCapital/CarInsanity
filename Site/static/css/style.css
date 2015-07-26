@@ -979,7 +979,7 @@ position: fixed;
   font-size: 12px;
   font-weight: normal;
   color: #7f8c8d;
-  font-weight: 300;
+  font-weight: 400;
   letter-spacing: 2px;
   color: white;
 }
@@ -1884,7 +1884,7 @@ position: fixed;
 @media (max-width: 480px) {
   .content-19 {
     padding-top: 10px;
-    padding-bottom: 80px;
+    padding-bottom: 0px;
   }
   .content-19 .col-sm-7 .quote .quote-author {
     font-size: 11px;
@@ -2007,7 +2007,7 @@ filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org
 }
 .crew-4 .members .info {
   font-size: 14px;
-  color: #95a5a6;
+  color: #7f8c8d;
   margin-top: 36px;
   line-height: 1.4;
   text-align: left;
@@ -2385,7 +2385,7 @@ filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org
   filter: alpha(opacity=30);
 }
 @media (min-width: 768px) {
-	.header-11 .navbar .nav > li.sidebar > a {
+	.header-3 .navbar .nav > li.sidebar > a {
 		display:  none; 
 	}	
 }
@@ -2770,15 +2770,6 @@ filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org
     right: 0;
   }
 }
-
-
-
-
-
-
-
-
-
 
 
 

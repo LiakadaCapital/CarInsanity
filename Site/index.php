@@ -1,23 +1,4 @@
-    <body>
-        <div class="page-wrapper">
-	        <header class="header-3">
-    <div class="container">
-        <div class="row">
-            <nav class="navbar col-sm-12" role="navigation">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle"></button>
-                    <a class="brand" href="#"><img src="img/logo.png" width="280" height="auto" alt=""></a>
-                </div>
-                <div class="collapse navbar-collapse pull-right">
-                    <ul class="nav pull-left">
-                        <li><a href="#">SERVICE</a></li>
-                        <li><a href="#">ABOUT</a></li>
-                        <li><a href="#">CONTACT</a></li>
-                    </ul>
-                </div>
-            </nav>
-        </div>
-    </div>
+<?php include'header.php';?>
     <div class="header-background"></div>
 </header>
 
@@ -121,7 +102,7 @@
                 <img src="img/title-image1.png">
                 <br>
         		<h2 class="heading">FRIDAY</h2>
-        		<h5 style="color:white;font-size:30px;"><i>S-CLASS FOR JUST $99, ONLY ON FRIDAYS</i></h5>
+        		<h5 style="color:white;font-size:30px;"><i>S-CLASS FOR JUST $99, ONLY ON FRIDAY</i></h5>
             </div>
         </div>
     </div>
@@ -136,15 +117,7 @@
 
 <br>
 
-<div class="container">
-<div class="row">
-<div class="col-sm-12 text-center">
-<img src="img/title-image1.png"><br>
- <h2 class="heading">OUR SERVICES</h2>
-</div> 
-</div>
-</div>
-<br><br>
+
 
 <!--
 <section class="header-11-sub bg-black">
@@ -157,8 +130,14 @@
     </div>
 </section>-->
 
-<section>
+<section style="padding-top:50px;padding-bottom:50px;">
 	<div class="container-fluid" id="features">
+		<div class="row">
+<div class="col-sm-12 text-center">
+<img src="img/title-image1.png"><br>
+ <h2 class="heading">OUR SERVICES</h2>
+</div> 
+</div>
 		<div class="row">
 			<a class="col-sm-4" id="one" href="services.html">
 				<div class="img-background" style="background-image: url('img/DSC_0846.jpg');">
@@ -226,7 +205,9 @@
             </div>
         </div>
         <div class="row">
+        <div class="col-sm-12">
 	        <h4><a href="https://www.google.ca/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=car%20insanity%20markham&lrd=0x89d4d6725307a931:0x9c71409d9775ff0b,1" target="_blank">Read more reviews<span class="fui-arrow-right"></span></a></h4>
+        </div>
         </div>
         
     </div>
@@ -295,10 +276,4 @@
 
 
 </section>
-
-
-<script type="text/javascript">
-	            $('#myCarousel').carousel({
-					  interval: 2000
-					})
-            </script>
+<?php include'footer.php';?>
