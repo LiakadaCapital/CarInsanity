@@ -5,14 +5,14 @@
 
 
 
-<section class="crew-4" style="margin-top:100px;">
+<section class="crew-4">
 
 		<div class="container">
 		<br><br>
 	        	<div class="row">
 <div class="col-sm-12 text-center">
 <img src="img/title-image1.png"><br>
- <h2 class="heading">CONTACT US</h2>
+ <h2 class="heading">Get IN TOUCH</h2>
 </div> 
 </div>
 <br><br>
@@ -25,42 +25,59 @@
     <div class="container">
         <div class="row">
         	
-            <div class="col-xs-12 col-sm-6">
-	            <h5 class="heading" style="font-size:25px;">We want to hear from you</h5>
-	            <br><br>
-	            <h4><span class="fui-bubble"></span> (+1) 905.471.9888<br>
-		            <span class="fui-mail"></span> service@carinsanity.ca</h4>
-		            <br><br>
+            <div class="col-xs-12 col-sm-6 text-center">
+
+		          
 	           <div class="row">
 	           <div class="col-sm-12">
 	            <form>
-                    <label class="h6">Name / Last Name</label>
-                    <input type="text" class="form-control" placeholder="John Smith">
-                    <label class="h6">E-mail</label>
-                    <input type="text" class="form-control" placeholder="johnsmithrocks@email.com">
-                    <label class="h6">Message</label>
-                    <textarea rows="7" class="form-control" placeholder="I just want to say you guys have the best service in the GTA!  I am shocked everytime by how good of a job you guys do!  Definitely keep doing what you're doing!"></textarea>
+                    
+                    <input type="text" class="form-control" placeholder="Name">
+                
+                    <input type="text" class="form-control" placeholder="Email">
+                    <input type="text" class="form-control" placeholder="Website">
+             
+                    <textarea rows="7" class="form-control"></textarea>
                     <button type="submit" class="btn btn-primary"><span class="fui-mail"></span></button>
                 </form> 
 	           </div>
 	           </div>
             </div>
             <div class="col-xs-0 col-sm-1"></div>
-            <div class="col-xs-12 col-sm-5">
+            <div class="col-xs-12 col-sm-6">
 	        	
 	        
 	        	
 		        <div class="row">
 		        	<div class="col-sm-12">
-		        		<h5 class="heading" style="font-size:25px;">Come Visit us</h5>
-	            <br><br>
-	            <h4><span class="fui-location"></span> 185 Bullock Dr. Unit. 10, Markham, ON, L3P 7R4<br>
-	            	
-		            <span class="fui-time"></span> Monday to Sunday: 10 A.M. to 7 P.M.</h4>
-		            <br><br>
-	
-	       
-			        	<style type="text/css">
+		        	<h4>CAR INSANITY MARKHAM</h4>
+		        	<p>
+		        		<span class="fui-bubble"></span> (+1) 905.471.9888<br>
+		            	<span class="fui-mail"></span> service@carinsanity.ca<br>
+		            	<span class="fui-location"></span> 185 Bullock Dr. Unit. 10, Markham, ON, L3P 7R4
+		            </p>
+		            <br>
+		            <h4>WORKING HOURS</h4>
+		            <p><span class="fui-time"></span> Monday to Sunday: 10 A.M. to 7 P.M.</p>
+		       
+		        	</div>
+		        </div>
+		    
+            </div>
+   
+        </div>
+
+    </div>
+</section>
+	        </div>
+	        </div>
+        </div>
+    <!--/.container-->
+</section>
+
+
+<section class="contacts-5">
+	<style type="text/css">
             /* Set a size for our map container, the Google Map will take up 100% of this container */
             #map {
                 width: 100%;
@@ -119,43 +136,38 @@
         
         <!-- The element that will contain our Google Map. This is used in both the Javascript and CSS above. -->
         <div id="map"></div>
-		        	</div>
-		        </div>
-		        <br>
-		        	
-		        <div class="row">
-		        <h5>Our Sponsors</h5>
-			        <div class="col-xs-4 col-sm-4">
-			        	<img src="http://digital-photography-school.com/wp-content/uploads/2013/07/sf-01a.jpg" class="img-responsive img-circle">
-			        </div>
-			        <div class="col-xs-4 col-sm-4">
-			        	<img src="http://digital-photography-school.com/wp-content/uploads/2013/07/sf-01a.jpg" class="img-responsive img-circle">
-			        </div>
-			        <div class="col-xs-4 col-sm-4">
-			        	<img src="http://digital-photography-school.com/wp-content/uploads/2013/07/sf-01a.jpg" class="img-responsive img-circle">
-			        </div>
-		        </div>
-		        <br>
-		        <div class="row">
-			        <div class="col-xs-4 col-sm-4">
-			        	<img src="http://digital-photography-school.com/wp-content/uploads/2013/07/sf-01a.jpg" class="img-responsive img-circle">
-			        </div>
-			        <div class="col-xs-4 col-sm-4">
-			        	<img src="http://digital-photography-school.com/wp-content/uploads/2013/07/sf-01a.jpg" class="img-responsive img-circle">
-			        </div>
-			        <div class="col-xs-4 col-sm-4">
-			        	<img src="http://digital-photography-school.com/wp-content/uploads/2013/07/sf-01a.jpg" class="img-responsive img-circle">
-			        </div>
-		        </div>
-            </div>
-   
-        </div>
 
-    </div>
+
 </section>
-	        </div>
-	        </div>
-        </div>
-    <!--/.container-->
+<section class=" sponsors">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-12 text-center">
+				<br>
+				<img src="img/title-image1.png" width="120px; height:auto;"><br>
+				<h6 class="heading" style="font-size:18px;">our sponsors</h6>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-1 col-sm-2"></div>
+			<div class="col-xs-1 col-sm-2"></div>
+			<div class="col-xs-4 col-sm-2">
+				<h1>
+				<a href="http://www.legendpot.com/" target="_blank">
+					<img src="img/legendpot.png" class="img-responsive">
+				</a>
+				</h1>
+			</div>
+			<div class="col-xs-4 col-sm-2">
+				<h1>
+				<a href="http://fishlegend.ca/" target="_blank">
+					<img src="img/fishlegend.png" class="img-responsive">
+				</a>
+				</h1>
+			</div>
+			<div class="col-xs-1 col-sm-2"></div>
+			<div class="col-xs-1 col-sm-2"></div>
+		</div>
+	</div>
 </section>
 <?php include'footer.php';?>

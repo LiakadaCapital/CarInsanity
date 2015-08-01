@@ -16,20 +16,7 @@
   <!-- Carousel items -->
   <div class="carousel-inner" role="listbox">
     <div class="active item">
-      <section class="header-3-sub" style="margin-top:100px;">
-    <div class="background">&nbsp;</div>
-    
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12">
-                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-            </div>
-        </div>
-    </div>
-</section>
-    </div>
-    <div class="item">
-      <section class="header-3-sub bg-midnight-blue" style="margin-top:100px;">
+      <section class="header-3-sub bg-midnight-blue">
     <div class="background-2">&nbsp;</div>
     
     <div class="container">
@@ -45,7 +32,7 @@
 </section>
     </div>
     <div class="item">
-      <section class="header-3-sub bg-midnight-blue" style="margin-top:100px;">
+      <section class="header-3-sub bg-midnight-blue">
     <div class="background-4">&nbsp;</div>
     
     <div class="container">
@@ -61,7 +48,7 @@
 </section>
     </div>
     <div class="item">
-      <section class="header-3-sub bg-midnight-blue" style="margin-top:100px;">
+      <section class="header-3-sub bg-midnight-blue">
     <div class="background-5">&nbsp;</div>
     
     <div class="container">
@@ -70,14 +57,14 @@
                 <img src="img/title-image1.png">
                 <br>
         		<h2 class="heading">WEDNESDAYS</h2>
-        		<h5 style="color:white;font-size:30px;"><i>GET 20% OFF AN A-CLASS</i></h5>
+        		<h5 style="color:white;font-size:30px;"><i>GET 20% OFF THE A-CLASS</i></h5>
             </div>
         </div>
     </div>
 </section>
     </div>
     <div class="item">
-      <section class="header-3-sub bg-midnight-blue" style="margin-top:100px;">
+      <section class="header-3-sub bg-midnight-blue">
     <div class="background-6">&nbsp;</div>
     
     <div class="container">
@@ -93,7 +80,7 @@
 </section>
     </div>
     <div class="item">
-      <section class="header-3-sub bg-midnight-blue" style="margin-top:100px;">
+      <section class="header-3-sub bg-midnight-blue">
     <div class="background-7">&nbsp;</div>
     
     <div class="container">
@@ -101,7 +88,7 @@
             <div class="col-sm-12 text-center">
                 <img src="img/title-image1.png">
                 <br>
-        		<h2 class="heading">FRIDAY</h2>
+        		<h2 class="heading">FRIDAYS</h2>
         		<h5 style="color:white;font-size:30px;"><i>S-CLASS FOR JUST $99, ONLY ON FRIDAY</i></h5>
             </div>
         </div>
@@ -109,13 +96,36 @@
 </section>
     </div> 
   </div>
-  <!-- Carousel nav -->
-  <a class="carousel-control fui-arrow-left left" href="#myCarousel" data-slide="prev"></a>
-  <a class="carousel-control fui-arrow-right right" href="#myCarousel" data-slide="next"></a>
 </div>
 
 
-<br>
+
+
+
+
+<section class="content-2 bg-beige">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <h3>Who Are We?</h3>
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+                </p>
+
+                <div class="btns">
+                    <a href="#" class="lead">Learn More</a>
+                </div>
+            </div>
+            <div class="col-sm-6">
+            	<div class="player">
+            		<iframe height="100%" width="100%" src="https://www.youtube.com/embed/D1dRWw5Txms" frameborder="0" allowfullscreen></iframe>
+                   
+                </div>
+	            
+            </div>
+        </div>
+    </div>
+</section>
 
 
 
@@ -130,7 +140,8 @@
     </div>
 </section>-->
 
-<section style="padding-top:50px;padding-bottom:50px;">
+
+<section style="padding-top:70px;padding-bottom:70px;">
 	<div class="container-fluid" id="features">
 		<div class="row">
 <div class="col-sm-12 text-center">
@@ -139,18 +150,18 @@
 </div> 
 </div>
 		<div class="row">
-			<a class="col-sm-4" id="one" href="services.html">
-				<div class="img-background" style="background-image: url('img/DSC_0846.jpg');">
+			<a class="col-sm-4" id="one" href="services.html" style="margin-top:0;margin-bottom:0;padding:0;">
+				<div class="img-background" style="background-image: url('img/DSC_0846.jpg'); margin:0;">
 					<h5>WRAPPING</h5>
 				</div>
 			</a>
-			<a class="col-sm-4" id="two" href="services.html">
-				<div class="img-background" style="background-image: url('img/image2.jpg');">
+			<a class="col-sm-4" id="two" href="services.html" style="margin-top:0;margin-bottom:0;padding:0;">
+				<div class="img-background" style="background-image: url('img/image2.jpg'); margin:0;">
 					<h5>DETAILING</h5>
 				</div>
 			</a>
-			<a class="col-sm-4" id="three" href="services.html">
-				<div class="img-background" style="background-image: url('img/DSC_0917.jpg');">
+			<a class="col-sm-4" id="three" href="services.html" style="margin-top:0;margin-bottom:0;padding:0;">
+				<div class="img-background" style="background-image: url('img/DSC_0917.jpg'); margin:0;">
 					<h5>CAR WASHING</h5>
 				</div>
 			</a>
@@ -158,19 +169,15 @@
 	</div>
 </section>
 
-<br>
-<div class="container">
-<div class="row">
-<div class="col-sm-12 text-center">
-<img src="img/title-image1.png"><br>
- <h2 class="heading">DON'T TAKE IT FROM US</h2>
-</div> 
-</div>
-</div>
-
 <br><br><br>
-<section class="content-19">
+<section class="content-19 bg-beige">
     <div class="container">
+    	<div class="row">
+	    	<div class="col-sm-12 text-center">
+<img src="img/title-image1.png"><br>
+ <h2 class="heading">DON'T TAKE IT FROM US<br><br><br></h2>
+</div> 
+	    </div>
         <div class="row">
             <div class="col-sm-7">
                 <div class="quote">
@@ -206,13 +213,12 @@
         </div>
         <div class="row">
         <div class="col-sm-12">
-	        <h4><a href="https://www.google.ca/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=car%20insanity%20markham&lrd=0x89d4d6725307a931:0x9c71409d9775ff0b,1" target="_blank">Read more reviews<span class="fui-arrow-right"></span></a></h4>
+	        <h4 class="lead"><a href="https://www.google.ca/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=car%20insanity%20markham&lrd=0x89d4d6725307a931:0x9c71409d9775ff0b,1" target="_blank">Read more reviews<span class="fui-arrow-right"></span></a></h4>
         </div>
         </div>
         
     </div>
 </section>
-<br><br><br><br>
 <section class="contacts-5">
 	<style type="text/css">
             /* Set a size for our map container, the Google Map will take up 100% of this container */

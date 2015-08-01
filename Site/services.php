@@ -1,10 +1,9 @@
 <?php include'header.php';?>
-
     <div class="header-background"></div>
 </header>
 
 
-<section class="crew-4" style="margin-top:100px;">
+<section class="crew-4" style="margin-top:10px;">
     	
 		<div class="container">
 		<br><br>
@@ -28,16 +27,25 @@
             <div class="plan">
                 <div class="title">
                     QUICK WASH
-                    <div class="price"><span class="currency">$</span>38<span class="period">/ 15 MIN</span></div>
+                    <div class="price"><span class="currency">$</span>38<span class="period">15 MIN</span></div>
                     
                 </div>
 
                 <div class="description">
                     <div class="description-box">
-                        Exterior: Delicate touch hand car wash; Delicate touch hand dry; Rim cleaning/dressing
+                    	<h6>Exterior</h6>
+                    	<ul>
+						  <li>Delicate touch hand wash</li>
+						  <li>Delicate touch hand dry</li>
+						  <li>Rim cleaning/dressing</li>
+						</ul>
                     </div>
                     <div class="description-box">
-                        Interior: Sets, carpets vacuum; Dashboard and interior door wipe cleaning
+                    	<h6>Interior</h6>
+                    	<ul>
+	                    	<li>Sets, carpets vacuum</li>
+	                    	<li>Dashboard and interior door wipe cleaning</li>
+                    	</ul>
                     </div>
             
                 </div>
@@ -46,16 +54,30 @@
             <div class="plan plan-2">
                 <div class="title">
                     A-CLASS
-                    <div class="price"><span class="currency">$</span>68<span class="period">/ HOUR</span></div>
+                    <div class="price"><span class="currency">$</span>68<span class="period">1 HOUR</span></div>
                     
                 </div>
 
                 <div class="description">
                     <div class="description-box">
-                        Exterior: Delicate touch hand car wash; Delicate touch hand dry; Rim cleaning/dressing; Tire dressing; Exterior window cleaning; Exterior glass wax
+                    	<h6>&nbsp;</h6>
+                    	<ul>
+	                    	<li> Delicate touch hand car wash</li>
+	                    	<li>Delicate touch hand dry; Rim cleaning/dressing</li>
+	                    	<li>Tire dressing</li>
+	                    	<li>Exterior window cleaning</li>
+	                    	<li>Exterior glass wax</li>
+                    	</ul>
+                        
                     </div>
                     <div class="description-box">
-                       Interior: Seats, carpets vacuum; Dashboard and Interior door wipe cleaning; Wipedown of door panels; Interior window cleaning
+                    	<h6>&nbsp;</h6>
+                    	<ul>
+	                    	<li>Seats, carpets vacuum</li>
+	                    	<li>Dashboard and Interior door wipe cleaning</li>
+	                    	<li>Wipedown of door panels</li>
+	                    	<li>Interior window cleaning</li>
+                    	</ul>
                     </div>
                 </div>
             </div>
@@ -63,34 +85,69 @@
             <div class="plan">
                 <div class="title">
                     S-CLASS
-                    <div class="price"><span class="currency">$</span>150<span class="period">/ 2.5 HOURS</span></div>
+                    <div class="price"><span class="currency">$</span>150<span class="period">2.5 HOURS</span></div>
                     
                     
                 </div>
 
                 <div class="description">
                     <div class="description-box">
-                        Exterior: Delicate touch hand car wash; Delicate touch hand dry; Rim deep cleaning (with small brush)/dressing; Tire cleaning/dressing; Exterior window cleaning; Exterior glass was; Full body clay treatment; Full body general wax
+                    	<h6>&nbsp;</h6>
+                    	<ul>
+	                    	<li>Delicate touch hand car wash</li>
+	                    	<li>Delicate touch hand dry; Rim deep cleaning (with small brush)/dressing</li>
+	                    	<li>Tire cleaning/dressing; Exterior window cleaning</li>
+	                    	<li>Exterior glass was</li>
+	                    	<li>Full body clay treatment</li>
+	                    	<li>Full body general wax</li>
+                    	</ul>
                     </div>
                     <div class="description-box">
-                        Interior: Seats, Carpets, Trunk vacuum; Dashboard and interior door wipe cleaning; Wipe down of door panels; Interior window cleaning; Interior glass wax; Seats, Leather and floor mats shampoo; Leather conditioning/treatment
+                    	<h6>&nbsp;</h6>
+                    	<ul>
+	                    	<li>Seats, Carpets, Trunk vacuum</li>
+	                    	<li>Dashboard and interior door wipe cleaning; Wipe down of door panels</li>
+	                    	<li>Interior window cleaning</li>
+	                    	<li>Interior glass wax; Seats, Leather and floor mats shampoo</li>
+	                    	<li>Leather conditioning/treatment</li>
+                    	</ul> 
                     </div>
                 </div>
             </div>
             <div class="plan plan-2">
                 <div class="title">
                     4S-CLASS
-                    <div class="price"><span class="currency">$</span>288<span class="period">/ 4 HOURS</span></div>
-                    <div class="ribbon">BEST</div>
+                    <div class="price"><span class="currency">$</span>288<span class="period">4 HOURS</span></div>
+                    <div class="ribbon">MOST POPULAR</div>
                     
                 </div>
 
                 <div class="description">
                     <div class="description-box">
-                        Exterior: Delicate touch hand car wash; Delicate touch hand dry; Rim/Tire deep cleaning (with small brush); Tire hot wax/tire shine; Tire dressing; Full body Clay treatment; Full body general wax; Exterior glass wax
+                    	<h6>&nbsp;</h6>
+                    	<ul>
+	                    	<li>Delicate touch hand car wash</li>
+	                    	<li>Delicate touch hand dry</li>
+	                    	<li>Rim/Tire deep cleaning (with small brush)</li>
+	                    	<li>Tire hot wax/tire shine; Tire dressing</li>
+	                    	<li>Full body Clay treatment</li>
+	                    	<li>Full body general wax</li>
+	                    	<li>Exterior glass wax</li>
+                    	</ul>
                     </div>
                     <div class="description-box">
-                        Interior: Seats, carpets, trunk vacuum; Trunk shampoo; Dashboard and interior door wipe cleaning; Wipe down of door panels; Interior window cleaning; Seats, leather and floor mats shampoo; Leather conditioning/treatment; Interior dressing; Fine detailing of console and dashboard; Express salt/stain removal; Odor spray deodorizer
+                    	<h6>&nbsp;</h6>
+                    	<ul>
+	                    	<li>Seats, carpets, trunk vacuum</li>
+	                    	<li>Trunk shampoo</li>
+	                    	<li>Dashboard and interior door wipe cleaning; Wipe down of door panels</li>
+	                    	<li>Interior window cleaning; Seats, leather and floor mats shampoo</li>
+	                    	<li>Leather conditioning/treatment</li>
+	                    	<li>Interior dressing</li>
+	                    	<li>Fine detailing of console and dashboard</li>
+	                    	<li>Express salt/stain removal</li>
+	                    	<li>Odor spray deodorizer</li>
+                    	</ul> 
                     </div>
                 </div>
             </div>
@@ -151,7 +208,7 @@
                 <td>Steam Wash</td>
                 <td>$168</td>
                 <td>$188</td>
-                <td>varies depending on size</td>
+                <td>Varies Depending On Size</td>
               </tr>
               <tr>
                 <td>Polishing $50 / spot</td>
@@ -178,14 +235,14 @@
                 <td>Special Grade Wax $200</td>
               </tr>
               <tr>
-                <td>Leather conditioning/treatment</td>
-                <td>starting at $68</td>
+                <td>Leather Conditioning / Treatment</td>
+                <td>Starting At $68</td>
                 <td></td>
                 <td></td>
               </tr>
               <tr>
                 <td>Special Stain Removal</td>
-                <td>starting at $38</td>
+                <td>Starting At $38</td>
                 <td></td>
                 <td></td>
               </tr>

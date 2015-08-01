@@ -1,16 +1,8 @@
- <?php include'header.php';?>
-
+<?php include'header.php';?>
     <div class="header-background"></div>
 </header>
 
-
-
-
-
-
-
-
-<section class="crew-4" style="margin-top:100px;">
+<section class="crew-4" style="margin-top:10px;">
     	
 		<div class="container">
 		<br><br>
@@ -48,7 +40,7 @@
                     </div>
                     <div class="info">
                         <div class="name">Xin - Team Leader</div>
-                         Hobbies: reading non-fiction, long walks on the beach
+                         <strong>Hobbies:</strong><br> reading non-fiction, long walks on the beach
 
                         <div class="contacts">
                             
@@ -66,7 +58,7 @@
                     </div>
                     <div class="info">
                         <div class="name">Kyo - Manager</div>
-                         Hobbies: badminton, driving, swimming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                         <strong>Hobbies:</strong><br> badminton, driving, swimming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                          
                         <div class="contacts">
                         </div>
@@ -84,7 +76,7 @@
                     </div>
                     <div class="info">
                         <div class="name">Gavin - Team Leader</div>
-                         Hobby: cooking, reading motor weekly, jogging
+                         <strong>Hobbies:</strong><br> cooking, reading motor weekly, jogging
 
                         <div class="contacts">
                         
@@ -105,7 +97,7 @@
                     </div>
                     <div class="info">
                         <div class="name">Nick - Team Leader</div>
-                         Hobbies: reading motor trend, driving
+                         <strong>Hobbies:</strong><br> reading motor trend, driving
 
                         <div class="contacts">
      

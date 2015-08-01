@@ -211,15 +211,8 @@ startupKit.uiKitHeader._inFixedMode = function(headerClass) {
             
             _navbarResize();
             
-            $('.navbar .brand', header).css({
-                'font-size' : 18 + ((25 - 18) * headerZoom),
-                'padding-top' : 30 + ((23 - 30) * headerZoom)
-            });
-            $('.navbar .brand img', header).css({
-                'width' : 'auto',
-                'height' : 25 + ((50 - 25) * headerZoom),
-                'margin-top' : -1 + ((-10 + 1) * headerZoom)
-            });
+ 
+
             $('.navbar .btn-navbar', header).css({
                 'margin-top' : 30 + ((28 - 30) * headerZoom)
             });
@@ -228,7 +221,8 @@ startupKit.uiKitHeader._inFixedMode = function(headerClass) {
                 $(headerClass + '.navbar .nav > li > a', header).css({
                     'font-size' : 12 + ((14 - 12) * headerZoom)
                 });
-            } else {
+            } 
+            else {
                 $(headerClass + '.navbar .nav > li > a', header).css({
                     'font-size' : ''
                 });

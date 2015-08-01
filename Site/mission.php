@@ -1,9 +1,8 @@
    <?php include'header.php';?>
-
     <div class="header-background"></div>
 </header>
 
-<section class="crew-4" style="margin-top:100px;">
+<section class="crew-4" style="margin-top:10px;">
     	<div class="container">
 		<br><br>
 	        	<div class="row">
@@ -34,8 +33,10 @@
     
         <div id="c-18_myCarousel" class="carousel slide" data-interval="600000">
             <div class="controls">
+            	<!--
                 <a class="carousel-control left disabled" href="#" data-slide="prev"> </a>
                 <a class="carousel-control right" href="#c-18_myCarousel" data-slide="next"> </a>
+                -->
             </div>
             <div class="carousel-inner">
                 <div class="item active">

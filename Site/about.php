@@ -1,16 +1,15 @@
 <?php include'header.php';?>
-
     <div class="header-background"></div>
 </header>
 
-<section class="crew-4" style="margin-top:100px;">
+<section class="crew-4" style="margin-top:10px;">
 
 	<div class="container">
 		<br><br>
 	        	<div class="row">
 <div class="col-sm-12 text-center">
 <img src="img/title-image1.png"><br>
- <h2 class="heading">OUR SERVICES</h2>
+ <h2 class="heading">ABOUT US</h2>
 </div> 
 </div>
 <br><br>
@@ -45,14 +44,17 @@ Simply bring your car in and experience the best car wash and detailing service 
  在 CAR INSANITY, 我们引以为豪的目标是给您
 </p>
 <hr>
-<p><strong>One-Stop Service *pic of store front*</strong></p>
+<p><strong>One-Stop Service</strong></p>
+<p><img src="img/IMG_2802.JPG" class="img-responsive"></p>
 <p>Your one stop Combination for Convenience, Quality, Price, Atmosphere and great Customer Service under one roof.</p>
 <hr>
 <p><strong>State of the art facility *pics of the equipment/process*</strong></p>
+<p><img src="img/DSC_0846.jpg" class="img-responsive"></p>
 <p>Our facility is regularly updated with the latest industry equipment and techniques to provide every car with superior service.</p>
 <p>**I need to go to the facility to see what equipment they have to really say something  meaningful here.**</p>
 <hr>
-<p><strong>Dedicated Staff *insert pic of technician working on car*</strong></p>
+<p><strong>Dedicated Staff</strong></p>
+<p><img src="img/2.jpg" class="img-responsive"></p>
 <p>Our friendly staff have gone through rigorous training and equipped with years of eyepiece to ensure that they bring you unparalleled service each time you visit.</p>
 <br><br><br> 
 	        	</div>

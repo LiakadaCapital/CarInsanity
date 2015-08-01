@@ -34,7 +34,6 @@
             <script src="startup/common-files/js/easing.min.js"></script>
             <script src="startup/common-files/js/jquery.svg.js"></script>
             <script src="startup/common-files/js/jquery.svganim.js"></script>
-            <script src="startup/common-files/js/jquery.backgroundvideo.min.js"></script>
             <script src="startup/common-files/js/froogaloop.min.js"></script>
             <script src="startup/common-files/js/startup-kit.js"></script>
         </div>

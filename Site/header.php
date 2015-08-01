@@ -17,6 +17,21 @@
         <!-- end -->
         <link rel="stylesheet" href="startup/common-files/css/animations.css">
         <link rel="stylesheet" href="static/css/style.css"> 
+        
+        <!-- Google Fonts embed code -->
+        <script type="text/javascript">
+            (function() {
+                var link_element = document.createElement("link"),
+                    s = document.getElementsByTagName("script")[0];
+                if (window.location.protocol !== "http:" && window.location.protocol !== "https:") {
+                    link_element.href = "http:";
+                }
+                link_element.href += "//fonts.googleapis.com/css?family=Play:400,700";
+                link_element.rel = "stylesheet";
+                link_element.type = "text/css";
+                s.parentNode.insertBefore(link_element, s);
+            })();
+        </script>
         <title></title>
     </head>
     
@@ -26,14 +41,14 @@
 	        <header class="header-3">
     <div class="container">
         <div class="row">
-            <nav class="navbar col-sm-12" role="navigation">
+            <nav class="navbar navbar-fixed-top" role="navigation">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle"></button>
-                    <a class="brand" href="index.php"><img src="img/logo.png" width="280" height="auto" alt=""></a>
+                    <a class="brand" href="index.php"><img src="img/logo.png"></a>
                 </div>
                 <div class="collapse navbar-collapse pull-right">
                     <ul class="nav pull-right">
-                        <li><a href="services.php"><i>SERVICE</i></a></li>
+                        <li><a href="services.php"><i>SERVICES</i></a></li>
                         <li><a href="about.php"><i>ABOUT</i></a></li>
                       
                         <li class="sidebar"><a href="mission.php"><i>MISSION STATEMENT</i></a></li>
