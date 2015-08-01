@@ -1814,9 +1814,9 @@ position: fixed;
   width: 265px;
   height: 180px;
   position: relative;
-  -webkit-border-radius: 6px;
-  -moz-border-radius: 6px;
-  border-radius: 6px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
   overflow: hidden;
   
   -webkit-transition: background-color 0.4s;
@@ -1830,9 +1830,9 @@ position: fixed;
   height: 100%;
   left: 0;
   top: 0;
-  -webkit-border-radius: 6px;
-  -moz-border-radius: 6px;
-  border-radius: 6px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
   overflow: hidden;
   background: 50% 50% no-repeat;
   -webkit-filter: grayscale(100%);
@@ -2463,9 +2463,9 @@ filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org
   width: 100%;
   border: 3px solid #e5e5e5;
   border-top: 0;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
 }
 .price-2 .plans .plan {
   display: table-cell;
@@ -2559,15 +2559,15 @@ filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org
 }
 .price-2 .plans .plan:first-child .title {
   margin-left: -3px;
-  -webkit-border-top-left-radius: 6px;
-  -moz-border-radius-topleft: 6px;
-  border-top-left-radius: 6px;
+  -webkit-border-top-left-radius: 0px;
+  -moz-border-radius-topleft: 0px;
+  border-top-left-radius: 0px;
 }
 .price-2 .plans .plan:last-child .title {
   margin-right: -3px;
-  -webkit-border-top-right-radius: 6px;
-  -moz-border-radius-topright: 6px;
-  border-top-right-radius: 6px;
+  -webkit-border-top-right-radius: 0px;
+  -moz-border-radius-topright: 0px;
+  border-top-right-radius: 0px;
 }
 .price-2 .plans .description {
   padding: 27px 40px;
@@ -2581,11 +2581,11 @@ filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org
 .price-2 .plans .description .description-box {
   text-align: left;
   padding: 13px 0;
-  border-top: 2px solid #ebedee;
-  min-height: 290px;
+  min-height: 305px;
 }
 .price-2 .plans .description .description-box ul {
 	padding-left: 20px;
+	padding-top: 80px;
 }
 .price-2 .plans .description .description-box:first-child {
   border-top: 0;

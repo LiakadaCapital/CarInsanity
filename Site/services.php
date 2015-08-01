@@ -13,16 +13,12 @@
  <h2 class="heading">OUR SERVICES</h2>
 </div> 
 </div>
-	</div>
-       
-        <div class="container-fluid">
-	        <div class="row">
-	        <div class="col-sm-12 col-md-12 col-lg-12">
-	        <div class="row">
-		        
-	        	<div class="col-sm-12">
-	        		<section class="price-2">
-    <div class="container-fluid">
+	</div> <!--/.container-->
+</section>
+
+
+ <section class="price-2">
+    <div class="container-fluid" style="padding-left:0; padding-right:0;">
         <div class="plans">
             <div class="plan">
                 <div class="title">
@@ -30,10 +26,11 @@
                     <div class="price"><span class="currency">$</span>38<span class="period">15 MIN</span></div>
                     
                 </div>
-
+                
                 <div class="description">
+                	
                     <div class="description-box">
-                    	<h6>Exterior</h6>
+                    	<div style="position:absolute; width:100%;background:#f9f9f9;text-align:center;left:0;border: 2px solid #e5e5e5;"><h6>Exterior</h6></div>
                     	<ul>
 						  <li>Delicate touch hand wash</li>
 						  <li>Delicate touch hand dry</li>
@@ -41,7 +38,9 @@
 						</ul>
                     </div>
                     <div class="description-box">
-                    	<h6>Interior</h6>
+                    	
+                    	<div style="position:absolute; width:100%;background:#f9f9f9;text-align:center;left:0;border: 2px solid #e5e5e5;"><h6>Interior</h6></div>
+                    	
                     	<ul>
 	                    	<li>Sets, carpets vacuum</li>
 	                    	<li>Dashboard and interior door wipe cleaning</li>
@@ -60,7 +59,7 @@
 
                 <div class="description">
                     <div class="description-box">
-                    	<h6>&nbsp;</h6>
+	                    <div style="position:absolute; width:100%;background:#f9f9f9;text-align:center;left:0;border: 2px solid #e5e5e5;"><h6>Exterior</h6></div>
                     	<ul>
 	                    	<li> Delicate touch hand car wash</li>
 	                    	<li>Delicate touch hand dry; Rim cleaning/dressing</li>
@@ -71,7 +70,7 @@
                         
                     </div>
                     <div class="description-box">
-                    	<h6>&nbsp;</h6>
+	                    <div style="position:absolute; width:100%;background:#f9f9f9;text-align:center;left:0;border: 2px solid #e5e5e5;"><h6>Interior</h6></div>
                     	<ul>
 	                    	<li>Seats, carpets vacuum</li>
 	                    	<li>Dashboard and Interior door wipe cleaning</li>
@@ -92,7 +91,7 @@
 
                 <div class="description">
                     <div class="description-box">
-                    	<h6>&nbsp;</h6>
+                    	<div style="position:absolute; width:100%;background:#f9f9f9;text-align:center;left:0;border: 2px solid #e5e5e5;"><h6>Exterior</h6></div>
                     	<ul>
 	                    	<li>Delicate touch hand car wash</li>
 	                    	<li>Delicate touch hand dry; Rim deep cleaning (with small brush)/dressing</li>
@@ -103,7 +102,7 @@
                     	</ul>
                     </div>
                     <div class="description-box">
-                    	<h6>&nbsp;</h6>
+                    	<div style="position:absolute; width:100%;background:#f9f9f9;text-align:center;left:0;border: 2px solid #e5e5e5;"><h6>Interior</h6></div>
                     	<ul>
 	                    	<li>Seats, Carpets, Trunk vacuum</li>
 	                    	<li>Dashboard and interior door wipe cleaning; Wipe down of door panels</li>
@@ -124,7 +123,7 @@
 
                 <div class="description">
                     <div class="description-box">
-                    	<h6>&nbsp;</h6>
+	                    <div style="position:absolute; width:100%;background:#f9f9f9;text-align:center;left:0;border: 2px solid #e5e5e5;"><h6>Exterior</h6></div>
                     	<ul>
 	                    	<li>Delicate touch hand car wash</li>
 	                    	<li>Delicate touch hand dry</li>
@@ -136,7 +135,7 @@
                     	</ul>
                     </div>
                     <div class="description-box">
-                    	<h6>&nbsp;</h6>
+	                    <div style="position:absolute; width:100%;background:#f9f9f9;text-align:center;left:0;border: 2px solid #e5e5e5;"><h6>Interior</h6></div>
                     	<ul>
 	                    	<li>Seats, carpets, trunk vacuum</li>
 	                    	<li>Trunk shampoo</li>
@@ -155,15 +154,20 @@
     </div>
     <!--/.container-->
 </section>
-	        	
-	        	
-	        	</div>
-	        </div>
-	        </div>
-	        </div>
-        </div>
-    <!--/.container-->
-</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <div class="container">
