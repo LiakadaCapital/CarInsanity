@@ -49,7 +49,6 @@
             
                 </div>
             </div>
-
             <div class="plan plan-2">
                 <div class="title">
                     A-CLASS
@@ -80,7 +79,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="plan">
                 <div class="title">
                     S-CLASS
@@ -154,15 +152,6 @@
     </div>
     <!--/.container-->
 </section>
-
-
-
-
-
-
-
-
-
 
 
 

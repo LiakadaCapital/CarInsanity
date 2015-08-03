@@ -2394,6 +2394,19 @@ filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org
     right: 0;
   }
 }
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:portrait) {
+  .ipad-portrait {
+		.price-2 .plans .description {
+		    padding: 27px 0px;
+		    font-size: 15px;
+		    color: #7f8c8d;
+		}
+  } /* your css rules for ipad portrait */
+}
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:landscape) {
+  .ipad-landscape { color: blue; } /* your css rules for ipad landscape */
+}
+
 
 
 /**
