@@ -2037,8 +2037,8 @@ filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org
  * Content 18 stylesheet  
  * */
 .content-18 {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 20px;
+  padding-bottom: 40px;
   position: relative;
 }
 .content-18 .carousel {
@@ -2056,6 +2056,11 @@ filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org
   font-family: "Play";
   font-weight: 300;
   line-height: 40px;
+}
+@media (max-width: 480px) {
+	.content-18 .carousel .quote-text {
+	  font-size: 20px;
+	}
 }
 .content-18 .carousel .quote-author {
   max-width: 625px;
