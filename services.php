@@ -8,7 +8,7 @@
 		<div class="container">
 		<br><br>
 	        	<div class="row">
-<div class="col-sm-12 text-center">
+<div class="col-xs-12 col-sm-12 text-center">
 <img src="img/title-image1.png"><br>
  <h2 class="heading">OUR SERVICES</h2>
 </div> 

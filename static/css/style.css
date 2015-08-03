@@ -2047,7 +2047,7 @@ filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org
 }
 
 .content-18 .carousel .quote-text {
-  width: 90%;
+  width: 100%;
   margin: 0 auto;
   padding: 0 20px;
   font-size: 30px;
@@ -2232,7 +2232,7 @@ filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org
 }
 @media (max-width: 767px) {
   .price-2 .plans .plan .ribbon {
-    top: 50px;
+    top: 20px;
   }
 }
 .price-2 .plans .title {
@@ -2708,4 +2708,10 @@ filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org
 	.heading#review {
 		font-size: 22px;
 	}
+}
+
+
+
+#myCarousel .carousel-control {
+	z-index: 999;
 }

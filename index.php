@@ -96,6 +96,16 @@
 </section>
     </div> 
   </div>
+  
+  <!-- Controls -->
+  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
 
 
@@ -163,7 +173,7 @@
 <section class="content-19 bg-beige">
     <div class="container">
     	<div class="row">
-	    	<div class="col-sm-12 text-center">
+	    	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
 <img src="img/title-image1.png"><br>
  <h2 class="heading" id="review">DON'T TAKE IT FROM US<br><br></h2>
 </div> 
