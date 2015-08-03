@@ -735,7 +735,7 @@ section * {
   right: 0;
 }
 .navbar .brand {
-  padding: 23px 28px 24px 0;
+  padding: 23px 0px 24px 0;
   float: left;
 }
 .navbar .subnav {
@@ -939,6 +939,9 @@ body > .navbar-collapse .navbar-form .btn-primary:hover,
 body > .navbar-collapse .navbar-search .btn-primary:hover {
   color: #fff;
 }
+
+
+
 /**
  * Header 3 stylesheet  
  * */
@@ -974,6 +977,24 @@ position: fixed;
   float: left;
   margin: -10px 15px 0 0;
 }
+
+
+
+
+
+@media (max-width: 480px) {
+.header-3 .navbar .brand img:first-child {
+    float: left;
+    margin: -10px 15px 0 0;
+    width: 248px;
+}
+}
+
+
+
+
+
+
 .header-3 .navbar .nav > li {
   margin-left: 25px;
 }
@@ -1059,6 +1080,13 @@ position: fixed;
     background-position: 50% 50% !important;
   }
 }
+@media (min-width: 768px) {
+	.header-3 .navbar .nav > li.sidebar > a {
+		display:  none; 
+	}	
+}
+
+
 /**
  * Copntact 5 stylesheet  
  * */
@@ -2073,331 +2101,6 @@ filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/**
- * Header 11 stylesheet  
- * */
-.header-11-startup-antiflicker {
-  border-bottom: 1px #bdc3c7 solid;
-}
-.header-11 {
-  z-index: 100;
-  width: 100%;
-  padding-top: 0;
-  padding-bottom: 0;
-  height: 60px;
-}
-.header-11 .header-background {
-  background: #f9f9f9;
- 
- 
-}
-.header-11 .navbar {
-  position: fixed;
-  z-index: 2;
-  top: 0;
-  margin: 0;
-  font-family: "Play";
-  background: white;
-  border-bottom: 2px solid #4595DB;
-  border-radius: 0;
-  height: 60px;
-}
-.header-11 .navbar.navbar-fixed-top {
-  top: 0 !important;
-}
-.header-11 .navbar .navbar-form {
-  padding: 30px 0 19px 50px;
-}
-.header-11 .navbar .btn {
-  padding-left: 30px;
-  padding-right: 30px;
-  font-weight: 800;
-}
-.header-11 .navbar .brand {
-  padding-top: 30px !important;
-  font-size: 25px;
-  font-weight: normal;
-  color: #34495e;
-  font-weight: 800;
-}
-.header-11 .navbar .brand img:first-child {
-  float: left;
-  margin: -10px 15px 0 0;
-}
-.header-11 .navbar .nav > li {
-  margin-left: 25px;
-}
-.header-11 .navbar .nav > li:first-child {
-  margin-left: 0;
-}
-.header-11 .navbar .nav > li:active a,
-.header-11 .navbar .nav > li.active a {
-  color: #16a085;
-}
-.header-11 .navbar .nav > li:active a:hover,
-.header-11 .navbar .nav > li.active a:hover,
-.header-11 .navbar .nav > li:active a:focus,
-.header-11 .navbar .nav > li.active a:focus,
-.header-11 .navbar .nav > li:active a.active,
-.header-11 .navbar .nav > li.active a.active {
-  color: #16a085;
-}
-.header-11 .navbar .nav > li > a {
-  padding: 20px 0 27px;
-  font-size: 14px;
-  font-weight: normal;
-  color: #4595DB;
-  font-weight: 400;
-}
-
-.header-11 .navbar .nav > li > a:hover,
-.header-11 .navbar .nav > li > a:focus,
-.header-11 .navbar .nav > li > a.active {
-  color: #4595DB;
-  font-weight: 600;
-}
-.header-11 .navbar .navbar-toggle {
-  background-image: url("../../startup/common-files/icons/menu-icon-header-8@2x.png");
-  -webkit-background-size: 17px 12px;
-  -moz-background-size: 17px 12px;
-  -o-background-size: 17px 12px;
-  background-size: 17px 12px;
-  margin-top: 15px;
-}
-.header-11-sub {
-  padding-top: 15vh;
-  padding-bottom: 15vh;
-  color: white;
-  position: relative;
-}
-.header-11-sub h1 {
-  font-size: 4vw;
-  font-weight: normal;
-  color: white;
-  margin-bottom: 15px;
-  font-family: "Play";
-  font-weight: 300;
-  text-shadow: 2px 2px 0px #383838;
-}
-.header-11-sub p {
-  font-size: 16px;
-  font-weight: normal;
-  color: #7f8c8d;
-  font-family: "Play";
-}
-.header-11-sub .additional-links {
-  opacity: 80;
-  filter: alpha(opacity=8000);
-  opacity: 0.8;
-  filter: alpha(opacity=80);
-  font-size: 12px;
-  font-weight: normal;
-  color: #1b1f23;
-}
-.header-11-sub .additional-links a {
-  text-decoration: underline;
-  color: #1b1f23;
-}
-.header-11-sub .additional-links a:hover,
-.header-11-sub .additional-links a:focus,
-.header-11-sub .additional-links a.active {
-  color: #16191c;
-}
-.header-11-sub .background {
-  background-image: url("../../img/DSC_0635.jpg");
-  opacity: 30;
-  filter: alpha(opacity=3000);
-  opacity: 0.3;
-  filter: alpha(opacity=30);
-}
-@media (min-width: 768px) {
-	.header-3 .navbar .nav > li.sidebar > a {
-		display:  none; 
-	}	
-}
-@media (max-width: 767px) {
-  .header-11-sub {
-    padding-top: 68px;
-    padding-bottom: 70px;
-  }
-  .header-11-sub .player {
-    margin: 40px 0 25px;
-  }
-}
-@media (max-width: 480px) {
-  .header-11-sub {
-    padding-top: 68px;
-    padding-bottom: 70px;
-  }
-  .header-11-sub h3 {
-    font-size: 26px;
-    font-weight: normal;
-    color: white;
-  }
-}
-.header-11-sub .signup-form form {
-  font-family: "Play";
-  margin-top: 40px;
-  margin-bottom: 20px;
-}
-.header-11-sub .signup-form form .form-group:first-child + .form-group {
-  display: table;
-  width: 100%;
-}
-.header-11-sub .signup-form form .form-group:first-child + .form-group > div {
-  display: table-cell;
-  width: 50%;
-  padding-left: 5px;
-}
-@media (max-width: 767px) {
-  .header-11-sub .signup-form form .form-group:first-child + .form-group > div {
-    padding-left: 9px;
-  }
-}
-.header-11-sub .signup-form form .form-group:first-child + .form-group > div:first-child {
-  padding-left: 0;
-  padding-right: 5px;
-}
-@media (max-width: 767px) {
-  .header-11-sub .signup-form form .form-group:first-child + .form-group > div:first-child {
-    padding-right: 9px;
-  }
-}
-.header-11-sub .signup-form form .form-group:first-child + .form-group input {
-  width: 100%;
-}
-@media (max-width: 767px) {
-  .header-11-sub .signup-form form .btn {
-    margin: 9px 0;
-  }
-}
-.header-11-sub .signup-form form .btn.btn-info {
-  font-size: 17px;
-  font-weight: 500;
-}
-.header-11-sub .signup-form form .btn.btn-info:hover,
-.header-11-sub .signup-form form .btn.btn-info:focus {
-  background-color: #16a085;
-}
-.header-11-sub .signup-form form .btn.btn-info:active,
-.header-11-sub .signup-form form .btn.btn-info.active {
-  background-color: #138871;
-}
-.header-11-sub .signup-form form input[type="text"],
-.header-11-sub .signup-form form input[type="password"] {
-  border-color: white !important;
-  color: #2c3e50;
-  font-weight: 500;
-}
-.header-11-sub .signup-form form input[type="text"]:-moz-placeholder,
-.header-11-sub .signup-form form input[type="password"]:-moz-placeholder {
-  color: #2c3e50;
-}
-.header-11-sub .signup-form form input[type="text"]::-moz-placeholder,
-.header-11-sub .signup-form form input[type="password"]::-moz-placeholder {
-  color: #2c3e50;
-  opacity: 1;
-}
-.header-11-sub .signup-form form input[type="text"]:-ms-input-placeholder,
-.header-11-sub .signup-form form input[type="password"]:-ms-input-placeholder {
-  color: #2c3e50;
-}
-.header-11-sub .signup-form form input[type="text"]::-webkit-input-placeholder,
-.header-11-sub .signup-form form input[type="password"]::-webkit-input-placeholder {
-  color: #2c3e50;
-}
-.header-11-sub .signup-form form input[type="text"].placeholder,
-.header-11-sub .signup-form form input[type="password"].placeholder {
-  color: #2c3e50;
-}
-@media (max-width: 767px) {
-  .header-11-sub .signup-form form input[type="text"],
-  .header-11-sub .signup-form form input[type="password"] {
-    height: 41px;
-  }
-}
-@media (max-width: 767px) {
-  .header-11-sub .signup-form form {
-    margin-top: 25px;
-  }
-}
-.header-11-sub .player {
-  -webkit-border-radius: 6px;
-  -moz-border-radius: 6px;
-  border-radius: 6px;
-  background: #bdc3c7;
-  position: relative;
-  overflow: hidden;
-  height: 360px;
-}
-.header-11-sub .player .btn-play {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  position: absolute;
-  left: 10px;
-  bottom: 10px;
-  width: 60px;
-  padding-left: 16px;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  border-radius: 3px;
-}
-.header-11-sub .player .btn-play.btn-primary {
-  background-color: #16a085;
-}
-.header-11-sub .player .btn-play.btn-primary:hover,
-.header-11-sub .player .btn-play.btn-primary:focus {
-  background-color: #45b39d;
-}
-.header-11-sub .player .btn-play.btn-primary:active,
-.header-11-sub .player .btn-play.btn-primary.active {
-  background-color: #138871;
-}
-.header-11-sub .player > iframe {
-  width: 100%;
-  height: 100%;
-  border: 0;
-  display: block;
-}
-@media (max-width: 480px) {
-  .header-11-sub .player {
-    margin: 40px auto 45px;
-    height: 160px;
-    max-width: 290px;
-  }
-}
 
 
 

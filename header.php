@@ -44,7 +44,7 @@
             <nav class="navbar navbar-fixed-top" role="navigation">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle"></button>
-                    <a class="brand" href="index.php"><img src="img/logo.png"></a>
+                    <a class="brand" href="index.php"><img src="img/logo.png" height="50" width="auto"></a>
                 </div>
                 <div class="collapse navbar-collapse pull-right">
                     <ul class="nav pull-right">
@@ -62,3 +62,5 @@
             </nav>
         </div>
     </div>
+    <div class="header-background"></div>
+

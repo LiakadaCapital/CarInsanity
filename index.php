@@ -2,6 +2,7 @@
     <div class="header-background"></div>
 </header>
 
+
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
 
 <ol class="carousel-indicators">
@@ -128,16 +129,6 @@
 
 
 
-<!--
-<section class="header-11-sub bg-black">
-    <div class="background">&nbsp;</div>
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12">       
-            </div>
-        </div>
-    </div>
-</section>-->
 
 
 <section style="padding-top:70px;padding-bottom:70px;">
