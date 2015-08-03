@@ -117,7 +117,7 @@
                 </div>
             </div>
             <div class="col-sm-6">
-            	<div class="player">
+            	<div class="player" style="margin-top:20px;">
             		<iframe height="100%" width="100%" src="https://www.youtube.com/embed/Gn7cvG2Yc1I" frameborder="0" allowfullscreen></iframe>
                    
                 </div>
@@ -131,7 +131,7 @@
 
 
 
-<section style="padding-top:70px;padding-bottom:70px;">
+<section style="padding-top:70px;padding-bottom:30px;">
 	<div class="container-fluid" id="features">
 		<div class="row">
 <div class="col-sm-12 text-center">
@@ -165,7 +165,7 @@
     	<div class="row">
 	    	<div class="col-sm-12 text-center">
 <img src="img/title-image1.png"><br>
- <h2 class="heading">DON'T TAKE IT FROM US<br><br><br></h2>
+ <h2 class="heading" id="review">DON'T TAKE IT FROM US<br><br></h2>
 </div> 
 	    </div>
         <div class="row">

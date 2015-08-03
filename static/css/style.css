@@ -2696,3 +2696,11 @@ filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org
   -o-transform: rotate(0deg) scale(1.003) skew(-14deg) translate(0px);
   -ms-transform: rotate(0deg) scale(1.003) skew(-14deg) translate(0px);
 }
+@media (max-width: 480px)  { 
+	.heading {
+		font-size: 25px;
+	}
+	.heading#review {
+		font-size: 22px;
+	}
+}
