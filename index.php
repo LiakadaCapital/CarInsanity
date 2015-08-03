@@ -112,7 +112,7 @@
                 </p>
 
                 <div class="btns">
-                    <a href="#" class="lead">Learn More</a>
+                    <a href="about.php" class="lead">Learn More</a>
                 </div>
             </div>
             <div class="col-sm-6">
@@ -149,17 +149,17 @@
 </div> 
 </div>
 		<div class="row">
-			<a class="col-sm-4" id="one" href="services.html" style="margin-top:0;margin-bottom:0;padding:0;">
+			<a class="col-sm-4 column"  href="services.php" style="margin-top:0;margin-bottom:0;padding:0;">
 				<div class="img-background" style="background-image: url('img/DSC_0846.jpg'); margin:0;">
 					<h5>WRAPPING</h5>
 				</div>
 			</a>
-			<a class="col-sm-4" id="two" href="services.html" style="margin-top:0;margin-bottom:0;padding:0;">
+			<a class="col-sm-4 column"  href="services.php" style="margin-top:0;margin-bottom:0;padding:0;">
 				<div class="img-background" style="background-image: url('img/image2.jpg'); margin:0;">
 					<h5>DETAILING</h5>
 				</div>
 			</a>
-			<a class="col-sm-4" id="three" href="services.html" style="margin-top:0;margin-bottom:0;padding:0;">
+			<a class="col-sm-4 column"  href="services.php" style="margin-top:0;margin-bottom:0;padding:0;">
 				<div class="img-background" style="background-image: url('img/DSC_0917.jpg'); margin:0;">
 					<h5>CAR WASHING</h5>
 				</div>

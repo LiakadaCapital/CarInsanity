@@ -2889,24 +2889,28 @@ filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org
 
 /* ----------- Non-Retina Screens ----------- */
 @media (min-width: 992px)  { 
-  #features .col-sm-4#one {
+  #features a.column {
 	  padding-left: 15px;
 	  padding-right: 7px;
 	  padding-top: 0px;
 	  background: black;
   }
-  #features .col-sm-4#two {
+  #features a.column {
 	  padding-left: 7px;
 	  padding-right: 7px;
 	  background: black;
   }
-  #features .col-sm-4#three {
+  #features .column {
 	  padding-left: 7px;
 	  padding-right: 15px;
 	  background: black;
   }
 }
-
+@media (max-width: 991px)  { 
+  .img-background {
+  	opacity: 1;
+  }
+}
 
 
 
