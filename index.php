@@ -10,7 +10,6 @@
     <li data-target="#myCarousel" data-slide-to="2"></li>
     <li data-target="#myCarousel" data-slide-to="3"></li>
     <li data-target="#myCarousel" data-slide-to="4"></li>
-    <li data-target="#myCarousel" data-slide-to="5"></li>
   </ol>
   
   <!-- Carousel items -->
@@ -109,7 +108,7 @@
             <div class="col-sm-6">
                 <h3>Who Are We?</h3>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+                <p>Car Insanity is the premium car wash and detailing provider in the GTA. We specialize in soft cloth car wash, hand detailing, waxing, spot removal, interior cleaning and many mores services.  We offer superior automotive detail service in the GTA by using the industry’s finest products. You will find quality imbedded into everything we do at Car Insanity, from the moment you pull up to our lot to the time you drive off in your sparking, clean vehicle.
                 </p>
 
                 <div class="btns">
@@ -118,7 +117,7 @@
             </div>
             <div class="col-sm-6">
             	<div class="player">
-            		<iframe height="100%" width="100%" src="https://www.youtube.com/embed/D1dRWw5Txms" frameborder="0" allowfullscreen></iframe>
+            		<iframe height="100%" width="100%" src="https://www.youtube.com/embed/Gn7cvG2Yc1I" frameborder="0" allowfullscreen></iframe>
                    
                 </div>
 	            

@@ -41,7 +41,7 @@
             <div class="carousel-inner">
                 <div class="item active">
                     <div class="quote-text">
-                        To customers who desire a high quality and tailored automotive service experience, Car Insanity is the specialty car wash that offers superior service quality and customer convenience at a reasonable price than competitive services.
+                        <strong>"</strong>To customers who desire a high quality and tailored automotive service experience, Car Insanity is the specialty car wash that offers superior service quality and customer convenience at a reasonable price than competitive services.<strong>"</strong>
                     </div>
                     <div class="quote-author">
                     	<center><img class="img-circle img-responsive" src="img/Profile-Pictures/1.png" width="60" height="60"></center><br>

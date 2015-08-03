@@ -1,19 +1,19 @@
 <footer class="footer-14">
     <div class="container">
     <div class="row">
-    <div class="col-xs-12 col-sm-4">
+    <div class="col-xs-6 col-sm-4">
         <a class="brand" href="#">
             <img src="./img/logo.png" class="img-responsive">
         </a>
     </div>
-    <div class="col-xs-12 col-sm-8">
+    <div class="col-xs-6 col-sm-8">
 	    <div class="social-btns">
           
             <a href="#">
                 <div class="fui-twitter"></div>
                 <div class="fui-twitter"></div>
             </a>
-            <a href="#">
+            <a href="https://www.facebook.com/carinsanitymarkham?fref=ts" target="_blank">
                 <div class="fui-facebook"></div>
                <div class="fui-facebook"></div>
             </a>

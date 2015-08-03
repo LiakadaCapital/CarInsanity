@@ -1961,24 +1961,7 @@ filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org
   margin-bottom: 100px;
   text-align: center;
 }
-.content-18 .carousel:before {
-  content: '';
-  background: url("../../startup/common-files/icons/quote-up-mb@2x.png") no-repeat;
-  -webkit-background-size: 31px 22px;
-  -moz-background-size: 31px 22px;
-  -o-background-size: 31px 22px;
-  background-size: 31px 22px;
-  display: block;
-  margin: 0 auto 23px;
-  width: 31px;
-  height: 22px;
-  text-align: center;
-}
-@media (max-width: 767px) {
-  .content-18 .carousel:before {
-    margin-bottom: 45px;
-  }
-}
+
 .content-18 .carousel .quote-text {
   width: 90%;
   margin: 0 auto;
@@ -1996,7 +1979,7 @@ filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org
   padding: 0 20px;
   font-size: 18px;
   font-weight: normal;
-  color: #bdc3c7;
+  color: #979c9f;
   font-family: "Play";
   font-weight: 500;
 }
