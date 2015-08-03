@@ -977,20 +977,42 @@ position: fixed;
   float: left;
   margin: -10px 15px 0 0;
 }
-
-
-
-
-
 @media (max-width: 480px) {
-.header-3 .navbar .brand img:first-child {
+  .header-3-sub {
+    padding-top: 100px;
+    background-attachment: scroll;
+    background-position: 50% 50% !important;
+  }
+  .header-3 .navbar .brand img:first-child {
     float: left;
     margin: -10px 15px 0 0;
     width: 230px;
+  }
+  .navbar .navbar-toggle {
+    margin: 20px 16px 10px;
+    color: white;
+    background: none;
+    padding: 0;
+    width: 30px;
+    height: 30px;
+    background: url("../../startup/common-files/icons/menu-icon@2x.png") 50% no-repeat;
+    -webkit-background-size: 17px 12px;
+    -moz-background-size: 17px 12px;
+    -o-background-size: 17px 12px;
+    background-size: 17px 12px;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    }
+	.header-3 {
+	    position: fixed;
+	    padding-top: 0;
+	    padding-bottom: 0;
+	    z-index: 100;
+	    width: 100%;
+	    height: 90px;
+	}
 }
-}
-
-
 
 
 .header-3 .navbar .nav > li {
@@ -1077,12 +1099,49 @@ position: fixed;
     background-attachment: scroll;
     background-position: 50% 50% !important;
   }
+  .header-3 .navbar .brand img:first-child {
+    float: left;
+    margin: -10px 15px 0 0;
+    width: 230px;
+  }
+  .navbar .navbar-toggle {
+    margin: 20px 16px 10px;
+    color: white;
+    background: none;
+    padding: 0;
+    width: 30px;
+    height: 30px;
+    background: url("../../startup/common-files/icons/menu-icon@2x.png") 50% no-repeat;
+    -webkit-background-size: 17px 12px;
+    -moz-background-size: 17px 12px;
+    -o-background-size: 17px 12px;
+    background-size: 17px 12px;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    }
+	.header-3 {
+	    position: fixed;
+	    padding-top: 0;
+	    padding-bottom: 0;
+	    z-index: 100;
+	    width: 100%;
+	    height: 90px;
+	}
 }
 @media (min-width: 768px) {
 	.header-3 .navbar .nav > li.sidebar > a {
 		display:  none; 
 	}	
 }
+
+
+
+
+
+
+
+
 
 
 /**
@@ -1533,11 +1592,10 @@ position: fixed;
  }
  @media (max-width: 480px) {
   .footer-14 .social-btns {
-    margin-left: 20px;
-    text-align: left;
+    text-align: right;
   }
   .footer-14 .brand {
-  	display: none;
+  	
   }
 }
 .footer-14 .social-btns > * {
