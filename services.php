@@ -37,9 +37,10 @@
 						  <li>Rim cleaning/dressing</li>
 						</ul>
                     </div>
+                    <div style="position:fixed;width:100%;background:#f9f9f9;text-align:center;left:0;border: 2px solid #e5e5e5;"><h6>Interior</h6></div>
                     <div class="description-box">
                     	
-                    	<div style="position:absolute; width:100%;background:#f9f9f9;text-align:center;left:0;border: 2px solid #e5e5e5;"><h6>Interior</h6></div>
+                    	
                     	
                     	<ul>
 	                    	<li>Sets, carpets vacuum</li>
@@ -58,7 +59,7 @@
 
                 <div class="description">
                     <div class="description-box">
-	                    <div style="position:absolute; width:100%;background:#f9f9f9;text-align:center;left:0;border: 2px solid #e5e5e5;"><h6>Exterior</h6></div>
+	                    <div style="position:absolute;width:100%;background:#f9f9f9;text-align:center;left:0;border: 2px solid #e5e5e5;"><h6>Exterior</h6></div>
                     	<ul>
 	                    	<li> Delicate touch hand car wash</li>
 	                    	<li>Delicate touch hand dry; Rim cleaning/dressing</li>
@@ -68,8 +69,9 @@
                     	</ul>
                         
                     </div>
+                    <div style="position:fixed;width:100%;background:#f9f9f9;text-align:center;left:0;border: 2px solid #e5e5e5;"><h6>Interior</h6></div>
                     <div class="description-box">
-	                    <div style="position:absolute; width:100%;background:#f9f9f9;text-align:center;left:0;border: 2px solid #e5e5e5;"><h6>Interior</h6></div>
+	                    
                     	<ul>
 	                    	<li>Seats, carpets vacuum</li>
 	                    	<li>Dashboard and Interior door wipe cleaning</li>
@@ -99,8 +101,9 @@
 	                    	<li>Full body general wax</li>
                     	</ul>
                     </div>
+                    <div style="position:fixed;width:100%;background:#f9f9f9;text-align:center;left:0;border: 2px solid #e5e5e5;"><h6>Interior</h6></div>
                     <div class="description-box">
-                    	<div style="position:absolute; width:100%;background:#f9f9f9;text-align:center;left:0;border: 2px solid #e5e5e5;"><h6>Interior</h6></div>
+
                     	<ul>
 	                    	<li>Seats, Carpets, Trunk vacuum</li>
 	                    	<li>Dashboard and interior door wipe cleaning; Wipe down of door panels</li>
@@ -132,8 +135,9 @@
 	                    	<li>Exterior glass wax</li>
                     	</ul>
                     </div>
+                    <div style="position:fixed;width:100%;background:#f9f9f9;text-align:center;left:0;border: 2px solid #e5e5e5;"><h6>Interior</h6></div>
                     <div class="description-box">
-	                    <div style="position:absolute; width:100%;background:#f9f9f9;text-align:center;left:0;border: 2px solid #e5e5e5;"><h6>Interior</h6></div>
+
                     	<ul>
 	                    	<li>Seats, carpets, trunk vacuum</li>
 	                    	<li>Trunk shampoo</li>
