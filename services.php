@@ -75,7 +75,7 @@
             <div class="plan">
                 <div class="title">
                     S-CLASS
-                    <div class="price"><span class="currency">$</span>150<span class="period">2.5 HOURS</span></div>
+                    <div class="price"><span class="currency">$</span>138<span class="period">2.5 HOURS</span></div>
                 </div>
                 <div class="description">
                     <div class="description-box">
@@ -181,7 +181,7 @@
               </tr>
               <tr>
                 <td>Steam Wash</td>
-                <td>$168</td>
+                <td>$138</td>
                 <td>$188</td>
                 <td>Varies Depending On Size</td>
               </tr>

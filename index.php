@@ -73,7 +73,7 @@
                 <img src="img/title-image1.png">
                 <br>
         		<h2 class="heading">THURSDAYS</h2>
-        		<h5 style="color:white;font-size:30px;"><i>GET AN 4S-CLASS PACKAGE FOR ONLY $199 (REGULAR $288)</i></h5>
+        		<h5 style="color:white;font-size:30px;"><i>GET A 4S-CLASS PACKAGE FOR ONLY $199 (REGULAR $288)</i></h5>
             </div>
         </div>
     </div>
