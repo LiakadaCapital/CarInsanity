@@ -9,7 +9,7 @@
     <div class="col-xs-6 col-sm-8">
 	    <div class="social-btns">
           
-            <a href="#">
+            <a href="https://twitter.com/CarInsanityTO" target="_blank">
                 <div class="fui-twitter"></div>
                 <div class="fui-twitter"></div>
             </a>
@@ -19,7 +19,6 @@
             </a>
         </div>
     </div>
-    
     </div>   
     </div>
 </footer>            <!-- Placed at the end of the document so the pages load faster -->

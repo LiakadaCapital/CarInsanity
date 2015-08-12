@@ -9,15 +9,16 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black" />
         <link rel="shortcut icon" href="img/tab.png">
-        
+
         <link rel="stylesheet" href="startup/flat-ui/bootstrap/css/bootstrap.css">
         <link rel="stylesheet" href="startup/flat-ui/css/flat-ui.css">
         <!-- Using only with Flat-UI (free)-->
         <link rel="stylesheet" href="startup/common-files/css/icon-font.css">
         <!-- end -->
         <link rel="stylesheet" href="startup/common-files/css/animations.css">
-        <link rel="stylesheet" href="static/css/style.css"> 
-        
+        <link rel="stylesheet" href="static/css/style.css">
+        <script src="static/js/gen_validatorv31.js" type="text/javascript"></script>
+
         <!-- Google Fonts embed code -->
         <script type="text/javascript">
             (function() {
@@ -34,7 +35,6 @@
         </script>
         <title></title>
     </head>
-    
         <body>
         <div class="page-wrapper">
 
@@ -50,17 +50,14 @@
                     <ul class="nav pull-right">
                         <li><a href="services.php"><i>SERVICES</i></a></li>
                         <li><a href="about.php"><i>ABOUT</i></a></li>
-                      
+
                         <li class="sidebar"><a href="mission.php"><i>MISSION STATEMENT</i></a></li>
                         <li class="sidebar"><a href="team.php"><i>OUR TEAM</i></a></li>
-                        
+
                         <li><a href="contact.php"><i>CONTACT</i></a></li>
-                        
-                        
                     </ul>
                 </div>
             </nav>
         </div>
     </div>
     <div class="header-background"></div>
-
