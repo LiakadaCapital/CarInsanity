@@ -45,7 +45,7 @@
                     </div>
                     <div class="quote-author">
                     	<center><img class="img-circle img-responsive" src="img/Profile-Pictures/1.png" width="60" height="60"></center><br>
-                    Xin, Team Leader</div>
+                    Xu, Team Leader</div>
                 </div>
 
             </div>

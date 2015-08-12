@@ -25,7 +25,7 @@
                 <img src="img/title-image1.png">
                 <br>
         		<h2 class="heading">MONDAYS</h2>
-        		<h5 style="color:white;font-size:30px;"><i>GET 30% OFF THE A-CLASS AND UP</i></h5>
+        		<h5 style="color:white;font-size:30px;"><i>GET 30% OFF ALL SERVICES</i></h5>
             </div>
         </div>
     </div>
@@ -41,7 +41,7 @@
                 <img src="img/title-image1.png">
                 <br>
         		<h2 class="heading">TUESDAYS</h2>
-        		<h5 style="color:white;font-size:30px;"><i>BUY ONE, GET THE SAME CLASS 50% OFF</i></h5>
+        		<h5 style="color:white;font-size:30px;"><i>GET A FREE LEATHER TREATMENT WITH ANY PURCHASES</i></h5>
             </div>
         </div>
     </div>
@@ -57,7 +57,7 @@
                 <img src="img/title-image1.png">
                 <br>
         		<h2 class="heading">WEDNESDAYS</h2>
-        		<h5 style="color:white;font-size:30px;"><i>GET 20% OFF THE A-CLASS</i></h5>
+        		<h5 style="color:white;font-size:30px;"><i>GET AN S-CLASS PACKAGE FOR ONLY $99 (REGULAR $138)</i></h5>
             </div>
         </div>
     </div>
@@ -73,7 +73,7 @@
                 <img src="img/title-image1.png">
                 <br>
         		<h2 class="heading">THURSDAYS</h2>
-        		<h5 style="color:white;font-size:30px;"><i>GET AN 4S-CLASS FOR ONLY $188</i></h5>
+        		<h5 style="color:white;font-size:30px;"><i>GET AN 4S-CLASS PACKAGE FOR ONLY $199 (REGULAR $288)</i></h5>
             </div>
         </div>
     </div>
@@ -89,7 +89,7 @@
                 <img src="img/title-image1.png">
                 <br>
         		<h2 class="heading">FRIDAYS</h2>
-        		<h5 style="color:white;font-size:30px;"><i>S-CLASS FOR JUST $99, ONLY ON FRIDAY</i></h5>
+        		<h5 style="color:white;font-size:30px;"><i>UPGRADE TO STEAM WASH WHEN YOU BUY AN S-CLASS</i></h5>
             </div>
         </div>
     </div>
