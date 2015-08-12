@@ -40,9 +40,7 @@ Our services includes soft cloth car wash, hand detailing, waxing, spot removal,
 </p>
 <p>
 Simply bring your car in and experience the best car wash and detailing service in the GTA!</p>
-<p>
- 在 CAR INSANITY, 我们引以为豪的目标是给您
-</p>
+
 <hr>
 <p><strong>One-Stop Service</strong></p>
 <p><img src="img/IMG_2802.JPG" class="img-responsive"></p>
