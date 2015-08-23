@@ -2,6 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
+         <title>Car Insanity</title>
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black" />
@@ -33,7 +34,7 @@
                 s.parentNode.insertBefore(link_element, s);
             })();
         </script>
-        <title></title>
+        
     </head>
         <body>
         <div class="page-wrapper">
