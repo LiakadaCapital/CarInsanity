@@ -3,8 +3,24 @@
 </header>
 
 
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
+<section class="header-3-sub bg-midnight-blue">
+    <div class="background-2">&nbsp;</div>
+    
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <img src="img/title-image1.png">
+                <br>
+        		<h2 class="heading">EVERYDAY</h2>
+        		<h5 style="color:white;font-size:30px;"><i>GET A 4S-CLASS SERVICE FOR $199 (ORIGINAL $288)</i></h5>
+            </div>
+        </div>
+    </div>
+</section>
 
+<!--
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+<!--
 <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
@@ -12,9 +28,18 @@
     <li data-target="#myCarousel" data-slide-to="3"></li>
     <li data-target="#myCarousel" data-slide-to="4"></li>
   </ol>
+  -->
   
   <!-- Carousel items -->
+  <!--
   <div class="carousel-inner" role="listbox">
+  	<div class="active item">
+      
+    </div>
+  
+  
+  
+  <!--
     <div class="active item">
       <section class="header-3-sub bg-midnight-blue">
     <div class="background-2">&nbsp;</div>
@@ -96,8 +121,10 @@
 </section>
     </div> 
   </div>
+  -->
   
   <!-- Controls -->
+<!--
   <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -107,6 +134,7 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
+-->
 
 
 
