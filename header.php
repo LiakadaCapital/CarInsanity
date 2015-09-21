@@ -20,7 +20,26 @@
         <link href='https://fonts.googleapis.com/css?family=Play:400,700' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="static/css/style.css">
         <script src="static/js/gen_validatorv31.js" type="text/javascript"></script>
-        
+
+        <!-- Fade in -->
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.js" type="text/javascript"></script>
+        <script type="text/javascript" src="jquery.js"></script>
+        <link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+
+        <!-- Google Fonts embed code -->
+        <script type="text/javascript">
+            (function() {l
+                var link_element = document.createElement("link"),
+                    s = document.getElementsByTagName("script")[0];
+                if (window.location.protocol !== "http:" && window.location.protocol !== "https:") {
+                    link_element.href = "http:";
+                }
+                link_element.href += "//fonts.googleapis.com/css?family=Play:400,700";
+                link_element.rel = "stylesheet";
+                link_element.type = "text/css";
+                s.parentNode.insertBefore(link_element, s);
+            })();
+        </script>
         
     </head>
         <body>

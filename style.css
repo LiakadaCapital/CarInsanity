@@ -1,0 +1,11 @@
+/*
+  Name: jQuery Fade In Examples
+  URI: http://techNerdia.com/
+  Description: jQuery Example: Display a Hidden Div When a Page Loads and Based on Scroll-bar Position.
+  Author: tribalNerd
+*/
+.div2 {
+		opacity:0;
+		filter:alpha(opacity=0);
+		-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+}

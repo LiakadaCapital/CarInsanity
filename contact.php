@@ -16,6 +16,8 @@
 <br><br>
 	</div>
 
+<div class="div2" style="width:100%; border:0; background:white; margin:0; padding:0;">
+
         <div class="container">
 	        <div class="row">
 	        <div class="col-sm-12 col-md-12 col-lg-12">
@@ -75,6 +77,9 @@
         </div>
 
     </div>
+
+</div>
+
 </section>
 	        </div>
 	        </div>
@@ -84,6 +89,7 @@
 
 
 <section class="contacts-5">
+<div class="div2" style="width:100%; border:0; background:white; margin:0; padding:0;">
 	<style type="text/css">
             /* Set a size for our map container, the Google Map will take up 100% of this container */
             #map {
@@ -144,9 +150,13 @@
         <!-- The element that will contain our Google Map. This is used in both the Javascript and CSS above. -->
         <div id="map"></div>
 
-
+</div>
 </section>
+
+
+
 <section class=" sponsors">
+<div class="div2" style="width:100%; border:0; background:white; margin:0; padding:0;">
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-sm-12 text-center">
@@ -176,5 +186,6 @@
 			<div class="col-xs-1 col-sm-2"></div>
 		</div>
 	</div>
+</div>
 </section>
 <?php include'footer.php';?>

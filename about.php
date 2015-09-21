@@ -3,7 +3,6 @@
 </header>
 
 <section class="crew-4" style="margin-top:10px;">
-
 	<div class="container">
 		<br><br>
 	        	<div class="row">
@@ -40,20 +39,28 @@ Our services includes soft cloth car wash, hand detailing, waxing, spot removal,
 </p>
 <p>
 Simply bring your car in and experience the best car wash and detailing service in the GTA!</p>
-
 <hr>
+
+<div class="div2" style="width:100%; border:0; background:white; margin:0; padding:0;">
 <p><strong>One-Stop Service</strong></p>
 <p><img src="img/IMG_2802.JPG" class="img-responsive"></p>
 <p>Your one stop Combination for Convenience, Quality, Price, Atmosphere and great Customer Service under one roof.</p>
 <hr>
+</div>
+
+<div class="div2" style="width:100%; border:0; background:white; margin:0; padding:0;">
 <p><strong>State of the art facility *pics of the equipment/process*</strong></p>
 <p><img src="img/DSC_0846.jpg" class="img-responsive"></p>
 <p>Our facility is regularly updated with the latest industry equipment and techniques to provide every car with superior service.</p>
 <p>**I need to go to the facility to see what equipment they have to really say something  meaningful here.**</p>
 <hr>
+</div>
+
+<div class="div2" style="width:100%; border:0; background:white; margin:0; padding:0;">
 <p><strong>Dedicated Staff</strong></p>
 <p><img src="img/2.jpg" class="img-responsive"></p>
 <p>Our friendly staff have gone through rigorous training and equipped with years of eyepiece to ensure that they bring you unparalleled service each time you visit.</p>
+</div>
 <br><br><br> 
 	        	</div>
 	        	</div>

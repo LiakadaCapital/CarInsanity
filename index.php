@@ -3,24 +3,8 @@
 </header>
 
 
-<section class="header-3-sub bg-midnight-blue">
-    <div class="background-2">&nbsp;</div>
-    
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12 text-center">
-                <img src="img/title-image1.png">
-                <br>
-        		<h2 class="heading">EVERYDAY</h2>
-        		<h5 style="color:white;font-size:30px;"><i>GET A 4S-CLASS SERVICE FOR $199 (ORIGINAL $288)</i></h5>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!--
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
-<!--
+
 <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
@@ -28,18 +12,9 @@
     <li data-target="#myCarousel" data-slide-to="3"></li>
     <li data-target="#myCarousel" data-slide-to="4"></li>
   </ol>
-  -->
   
   <!-- Carousel items -->
-  <!--
   <div class="carousel-inner" role="listbox">
-  	<div class="active item">
-      
-    </div>
-  
-  
-  
-  <!--
     <div class="active item">
       <section class="header-3-sub bg-midnight-blue">
     <div class="background-2">&nbsp;</div>
@@ -121,10 +96,8 @@
 </section>
     </div> 
   </div>
-  -->
   
   <!-- Controls -->
-<!--
   <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -134,32 +107,27 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
--->
-
-
 
 
 
 
 <section class="content-2 bg-beige">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-6">
-                <h3>Who Are We?</h3>
-
-                <p>Car Insanity is the premium car wash and detailing provider in the GTA. We specialize in soft cloth car wash, hand detailing, waxing, spot removal, interior cleaning and many mores services.  We offer superior automotive detail service in the GTA by using the industry’s finest products. You will find quality imbedded into everything we do at Car Insanity, from the moment you pull up to our lot to the time you drive off in your sparking, clean vehicle.
-                </p>
-
-                <div class="btns">
-                    <a href="about.php" class="lead">Learn More</a>
+    <div class="div2" style="width:100%; border:0; margin:0; padding:0;">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <h3>Who Are We?</h3>
+                    <p>Car Insanity is the premium car wash and detailing provider in the GTA. We specialize in soft cloth car wash, hand detailing, waxing, spot removal, interior cleaning and many mores services.  We offer superior automotive detail service in the GTA by using the industry’s finest products. You will find quality imbedded into everything we do at Car Insanity, from the moment you pull up to our lot to the time you drive off in your sparking, clean vehicle.
+                    </p>
+                    <div class="btns">
+                        <a href="about.php" class="lead">Learn More</a>
+                    </div>
                 </div>
-            </div>
-            <div class="col-sm-6">
-            	<div class="player" style="margin-top:20px;">
-            		<iframe height="100%" width="100%" src="https://www.youtube.com/embed/Gn7cvG2Yc1I" frameborder="0" allowfullscreen></iframe>
-                   
+                <div class="col-sm-6">
+                	<div class="player" style="margin-top:20px;">
+                		<iframe height="100%" width="100%" src="https://www.youtube.com/embed/Gn7cvG2Yc1I" frameborder="0" allowfullscreen></iframe>
+                    </div>
                 </div>
-	            
             </div>
         </div>
     </div>
@@ -167,9 +135,8 @@
 
 
 
-
-
 <section style="padding-top:70px;padding-bottom:30px;">
+<div class="div2" style="width:100%; border:0; margin:0; padding:0;">
 	<div class="container-fluid" id="features">
 		<div class="row">
 <div class="col-sm-12 text-center">
@@ -195,10 +162,14 @@
 			</a>
 		</div>
 	</div>
+</div>
 </section>
+
+
 
 <br><br><br>
 <section class="content-19 bg-beige">
+<div class="div2" style="width:100%; border:0; margin:0; padding:0;">
     <div class="container">
     	<div class="row">
 	    	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
@@ -246,8 +217,12 @@
         </div>
         
     </div>
+</div>
 </section>
+
+
 <section class="contacts-5">
+<div class="div2" style="width:100%; border:0; margin:0; padding:0;">
 	<style type="text/css">
             /* Set a size for our map container, the Google Map will take up 100% of this container */
             #map {
@@ -307,7 +282,6 @@
         
         <!-- The element that will contain our Google Map. This is used in both the Javascript and CSS above. -->
         <div id="map"></div>
-
-
+</div>
 </section>
 <?php include'footer.php';?>
